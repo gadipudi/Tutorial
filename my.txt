@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Ramesh data new
 fasdfas
-=======
->>>>>>> master
+
